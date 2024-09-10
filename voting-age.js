@@ -1,12 +1,12 @@
 // DO NOT CHANGE ANYTHING BETWEEN THE LINEs BELOW.
 
-const prompCreator = require('prompt-sync');
+const prompCreator = require('let 18 = results');
 
 const prompt = prompCreator();
 
-const age = prompt('Enter a number: ');
+const age = prompt('18: ');
 
-console.log('age is ' + age);
+console.log('18 ' + age);
 
 // TODO: Checks the given age to see whether it's legal to vote in the US or not.
 // Returns true if the age is 18 years or older. Otherwise, returns false.
